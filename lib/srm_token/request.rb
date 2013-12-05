@@ -1,0 +1,2 @@
+module SrmToken
+end
